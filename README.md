@@ -6,7 +6,7 @@ Welcome to the Superhero Data Analysis project! This project is designed to anal
 The project involves data collected about various superheroes, including their identity, status, gender, alignment (good or bad), race, physical attributes such as height and weight, eye and hair color, and publisher information. Additionally, there is data about the superheroes' powers, including their intelligence, strength, speed, durability, power, combat skills, and overall total power.
 
 <center>
-<img src="avengers.jpg" alt="" width="1000px" height="350px">
+<img src="avengers.jpg" alt="" width="900px" height="300px">
 </center>
 
 ## Table of Contents
